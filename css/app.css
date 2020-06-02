@@ -1,14 +1,5 @@
-body {
-	padding-top: 4rem;
-}
-
-.bd-title {
-	margin-top: 1rem;
-	margin-bottom: .5rem;
-	font-weight: 300;
-	font-size: 3rem;
-}
-
+.bd-title {	margin-top: 1rem;margin-bottom: .5rem;font-weight: 300;font-size: 3rem;}
+.nav-item {display:inline;}
 #toc ul.sectlevel0>li>a{font-style:italic}
 #toc ul{list-style-type:none; padding-left:1em;}
 #toc a{text-decoration:none}
